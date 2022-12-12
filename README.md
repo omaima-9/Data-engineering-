@@ -31,18 +31,30 @@ The second dataset was 'noc_regions.csv' which have 2 attributes, and the attrib
   
 # steps used for work done :
 1- read the csv file  and importing the libraries.
+
 2- count the unique and some attrbuites to explore data by nunique method and count.
+
 3- calculating the missing values by isna() method and see which attributes we will deal with.
+
 4- four attributes have null values : age , height , medal and weight
+
 5- for age we did univariate imputation and get mean for it and put instead of the null in age
+
 6- for medals we fill by no medal since data we want it
+
 7- height and weight by mutual imputation and removing the outliers 
+
 8- after the cleaning steps we ended up with zero missing values.
+
 9- visualization some attributes like : the female and male across the Olympics  and see that male are higher than females by bar chart since they are nominal data
 visualization for the  height and sex and count of them done by histogram 
+
 visualization for the age before cleaning by histplot
+
 visualization for height and weight across sex by scatterplot
+
 visualization for medals before and after cleaning and we see that no medals was the higher and almost the other medals are equal
+
 
   
 # the  questions to be answered via various data analytics methods using python.
