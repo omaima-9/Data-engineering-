@@ -24,7 +24,6 @@ NOC: National Olympic Committee 3-letter code
 Games: Year and season
 
 Year: Integer
-
 Season: Summer or Winter
 
 City: Host city
@@ -38,11 +37,11 @@ Medal: Gold, Silver, Bronze, or NA)
 The second dataset was 'noc_regions.csv' which have 2 attributes, and the attributes are(NOC: National Olympic Committee 3-letter code, regions)
 
 # Overview of the project goals:
-  1- Explore the dataset that we are dealing with 
-  2- visualize individual attributes and figure out the relations between them 
-  3- calculate the missing values in the dataset 
-  4- cleaning the data(by handling the missing values and the outliers)
-  5- visualize the dataset after cleaning 
+  1- Explore the dataset that we are dealing with  
+  2- visualize individual attributes and figure out the relations between them  
+  3- calculate the missing values in the dataset  
+  4- cleaning the data(by handling the missing values and the outliers)  
+  5- visualize the dataset after cleaning   
   
 # steps used for work done :
 1- read the csv file  and importing the libraries.
