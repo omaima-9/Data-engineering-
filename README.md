@@ -6,20 +6,35 @@
  
 # Overview of the dataset used:
   we dealed with two datasets, the first one was 'athlete_events.csv' which have 15 attributes and some of them have missing values,and the attributes are (ID: Unique number for each athlete
+  
 Name:Athlete's name
+
 Sex:Male or Female
+
 Age:Athlete's age in integer
+
 Height:Athlete's height in centimeters
+
 Weight: Athlete's weight in kilograms
+
 Team: Team name
+
 NOC: National Olympic Committee 3-letter code
+
 Games: Year and season
+
 Year: Integer
+
 Season: Summer or Winter
+
 City: Host city
+
 Sport: Sport
+
 Event: Event
+
 Medal: Gold, Silver, Bronze, or NA)
+
 The second dataset was 'noc_regions.csv' which have 2 attributes, and the attributes are(NOC: National Olympic Committee 3-letter code, regions)
 
 # Overview of the project goals:
